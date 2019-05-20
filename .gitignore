@@ -1,9 +1,0 @@
-# ignore all logs files
-*.log
-
-# ignore all jupyter files
-.ipynb_checkpoints
-
-
-# ignore all mac .DS_Store files
-.DS_Store
